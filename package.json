@@ -26,15 +26,12 @@
     "jest-extended": "^2.0.0"
   },
   "dependencies": {
-    "babel-preset-expo": "^11.0.12",
     "cors": "^2.8.5",
     "dotenv": "^16.0.0",
-    "expo": "^51.0.18",
     "express": "^4.19.2",
     "jest-sorted": "^1.0.15",
     "pg": "^8.7.3",
     "pg-format": "^1.0.4",
-    "react-native-dotenv": "^3.4.11",
     "supertest": "^7.0.0"
   },
   "jest": {
